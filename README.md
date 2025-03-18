@@ -1,2 +1,2 @@
 # MEOCO
-Official implementation of the MEOCO algorithm in paper "Maximum-Entropy Reinforcement Learning for Online Computation Offloading in the IoT Integrated with Mobile Edge Computing", which is under peer review.
+Official implementation of the MEOCO algorithm in paper "Maximum-Entropy Reinforcement Learning for Online Computation Offloading in the IoT Integrated with Mobile Edge Computing", which is under peer review. Until this paper is officially published online, no individual or institution is permitted to use the proposed algorithm or experimental results in any form. Any violation will be subject to legal consequences.
